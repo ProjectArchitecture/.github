@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/ProjectArchitecture/.github/main/profile/ProjectArchitecture.png" width="150" height="150"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/ProjectArchitecture/.github/main/profile/ProjectArchitecture.png" width="120" height="120"></div>
 
 # Project Architecture
 An organization consisting out of a few developers that love Open-Source projects and maintaining them.
