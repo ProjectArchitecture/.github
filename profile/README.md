@@ -3,9 +3,6 @@
 # Project Architecture
 An organization consisting out of a few developers that love Open-Source projects and maintaining them.
 
-# Motivation
-The success of open source projects are completely up to the communities commiting to them. We believe Closed-Source projects are more harmful than good.
-
 # Contributing
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
