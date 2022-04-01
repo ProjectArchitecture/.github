@@ -6,7 +6,7 @@ An organization consisting out of a few developers that love Open-Source project
 # Contributing
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Do you think you have a good contribution to any of our repo's? If you see this badge, that means we are looking for PR's. Please follow our guidelines on creating a PR before commiting one.
+Do you think you have a good contribution to any of our repo's? If you see this badge, that means we are looking for PR's.
 
 ---
 
